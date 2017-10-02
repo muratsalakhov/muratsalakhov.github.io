@@ -1,0 +1,2 @@
+# muratsalakhov.github.io
+hosting
